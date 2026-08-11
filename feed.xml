@@ -3,7 +3,7 @@
     <title>MySpace</title>
     <link href="https://Simon8282005.github.io/Portfolio/feed.xml" rel="self" />
     <link href="https://Simon8282005.github.io/Portfolio" />
-    <updated>2026-08-11T12:31:58+08:00</updated>
+    <updated>2026-08-11T13:00:37+08:00</updated>
     <author>
         <name>Simon</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://Simon8282005.github.io/Portfolio/sui-mo-chou-shen-fa-hui.html"/>
         <id>https://Simon8282005.github.io/Portfolio/sui-mo-chou-shen-fa-hui.html</id>
+        <media:content url="https://Simon8282005.github.io/Portfolio/media/posts/3/OIP-2991292843.jpg" medium="image" />
             <category term="日常隨拍"/>
             <category term="慶德"/>
             <category term="古晋区"/>
@@ -23,11 +24,13 @@
         <updated>2026-08-11T12:31:58+08:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://Simon8282005.github.io/Portfolio/media/posts/3/OIP-2991292843.jpg" alt="" />
                     古晋景色
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://Simon8282005.github.io/Portfolio/media/posts/3/OIP-2991292843.jpg" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image"><img loading="lazy" src="https://Simon8282005.github.io/Portfolio/media/posts/3/532917-kuching-4108353208.jpg" alt="古晋景色" width="2560" height="1440" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://Simon8282005.github.io/Portfolio/media/posts/3/responsive/532917-kuching-4108353208-xs.jpg 640w ,https://Simon8282005.github.io/Portfolio/media/posts/3/responsive/532917-kuching-4108353208-sm.jpg 768w ,https://Simon8282005.github.io/Portfolio/media/posts/3/responsive/532917-kuching-4108353208-md.jpg 1024w ,https://Simon8282005.github.io/Portfolio/media/posts/3/responsive/532917-kuching-4108353208-lg.jpg 1366w ,https://Simon8282005.github.io/Portfolio/media/posts/3/responsive/532917-kuching-4108353208-xl.jpg 1600w ,https://Simon8282005.github.io/Portfolio/media/posts/3/responsive/532917-kuching-4108353208-2xl.jpg 1920w">
 <figcaption>古晋景色</figcaption>
 </figure>
