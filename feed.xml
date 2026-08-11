@@ -3,29 +3,34 @@
     <title>MySpace</title>
     <link href="https://Simon8282005.github.io/Portfolio/feed.xml" rel="self" />
     <link href="https://Simon8282005.github.io/Portfolio" />
-    <updated>2026-08-10T22:59:23+08:00</updated>
+    <updated>2026-08-11T12:31:58+08:00</updated>
     <author>
         <name>Simon</name>
     </author>
     <id>https://Simon8282005.github.io/Portfolio</id>
 
     <entry>
-        <title>Hello World</title>
+        <title>歲末酬神法會</title>
         <author>
             <name>Simon</name>
         </author>
-        <link href="https://Simon8282005.github.io/Portfolio/hello-world.html"/>
-        <id>https://Simon8282005.github.io/Portfolio/hello-world.html</id>
+        <link href="https://Simon8282005.github.io/Portfolio/sui-mo-chou-shen-fa-hui.html"/>
+        <id>https://Simon8282005.github.io/Portfolio/sui-mo-chou-shen-fa-hui.html</id>
+            <category term="日常隨拍"/>
+            <category term="慶德"/>
+            <category term="古晋区"/>
 
-        <updated>2026-08-10T22:59:23+08:00</updated>
+        <updated>2026-08-11T12:31:58+08:00</updated>
             <summary type="html">
                 <![CDATA[
-                    This is my first post using pubiii…
+                    古晋景色
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>This is my first post using pubiii…</p>
+                <figure class="post__image"><img loading="lazy" src="https://Simon8282005.github.io/Portfolio/media/posts/3/532917-kuching-4108353208.jpg" alt="古晋景色" width="2560" height="1440" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://Simon8282005.github.io/Portfolio/media/posts/3/responsive/532917-kuching-4108353208-xs.jpg 300w ,https://Simon8282005.github.io/Portfolio/media/posts/3/responsive/532917-kuching-4108353208-sm.jpg 480w ,https://Simon8282005.github.io/Portfolio/media/posts/3/responsive/532917-kuching-4108353208-md.jpg 768w ,https://Simon8282005.github.io/Portfolio/media/posts/3/responsive/532917-kuching-4108353208-lg.jpg 1024w">
+<figcaption>古晋景色</figcaption>
+</figure>
             ]]>
         </content>
     </entry>
